@@ -1,0 +1,15 @@
+{
+  "name": "bugsnax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "nunjucks": "^3.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henry Troutman",
+  "license": "ISC"
+}
