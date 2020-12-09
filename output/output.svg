@@ -1,0 +1,432 @@
+
+    <svg id="svg" viewBox="0 0 1536 862"  xmlns="http://www.w3.org/2000/svg" >
+      <defs>
+        <linearGradient id="grad1" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" style="stop-color:rgb(92, 172, 172);stop-opacity:1" />
+          <stop offset="100%" style="stop-color:rgb(116, 128, 190);stop-opacity:1" />
+        </linearGradient>
+      </defs>
+      <rect x="0" y="0" width="1536" height="862" fill="url(#grad1)"/>
+      
+      <g transform="translate(0,0)">
+        
+        <image href="./img/CornSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(60,135)">
+        
+        <image href="./img/ShishkabobSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(0,270)">
+        
+        <image href="./img/IceCreamSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(60,405)">
+        
+        <image href="./img/Grape_GreenSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(0,540)">
+        
+        <image href="./img/BananaSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(60,675)">
+        
+        <image href="./img/Sucker_RockSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(0,810)">
+        
+        <image href="./img/HoneySticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(135,0)">
+        
+        <image href="./img/JellySandwichSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(195,135)">
+        
+        <image href="./img/TacoMantisSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(135,270)">
+        
+        <image href="./img/Sub_EndSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(195,405)">
+        
+        <image href="./img/WatermelonSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(135,540)">
+        
+        <image href="./img/BananaSplitSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(195,675)">
+        
+        <image href="./img/Sub_EndSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(135,810)">
+        
+        <image href="./img/CoconutSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(270,0)">
+        
+        <image href="./img/HotdogSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(330,135)">
+        
+        <image href="./img/KiwiSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(270,270)">
+        
+        <image href="./img/Sushi_EndSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(330,405)">
+        
+        <image href="./img/AppleSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(270,540)">
+        
+        <image href="./img/OliveSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(330,675)">
+        
+        <image href="./img/BananaSplitSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(270,810)">
+        
+        <image href="./img/Olive_BlackSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(405,0)">
+        
+        <image href="./img/Soda_ColaSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(465,135)">
+        
+        <image href="./img/PickleSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(405,270)">
+        
+        <image href="./img/CrackerSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(465,405)">
+        
+        <image href="./img/IcePopSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(405,540)">
+        
+        <image href="./img/Snakpod_GummySticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(465,675)">
+        
+        <image href="./img/JellySandwichSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(405,810)">
+        
+        <image href="./img/BakedPotato_LoadedSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(540,0)">
+        
+        <image href="./img/ChocolateChipCookieSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(600,135)">
+        
+        <image href="./img/DonutSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(540,270)">
+        
+        <image href="./img/TacoSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(600,405)">
+        
+        <image href="./img/Burrito_LettuceSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(540,540)">
+        
+        <image href="./img/Kiwi_GoldenSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(600,675)">
+        
+        <image href="./img/SushiSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(540,810)">
+        
+        <image href="./img/CoconutBSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(675,0)">
+        
+        <image href="./img/Apple_GreenSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(735,135)">
+        
+        <image href="./img/PineappleSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(675,270)">
+        
+        <image href="./img/IceCreamSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(735,405)">
+        
+        <image href="./img/SubSandwichSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(675,540)">
+        
+        <image href="./img/GolemSticker_128x128.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(735,675)">
+        
+        <image href="./img/CheesePuffSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(675,810)">
+        
+        <image href="./img/IcePop_PaletaSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(810,0)">
+        
+        <image href="./img/TacoSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(870,135)">
+        
+        <image href="./img/SherbertSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(810,270)">
+        
+        <image href="./img/PancakesSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(870,405)">
+        
+        <image href="./img/Kiwi_GoldenSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(810,540)">
+        
+        <image href="./img/EggRollSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(870,675)">
+        
+        <image href="./img/Sucker_RockSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(810,810)">
+        
+        <image href="./img/KiwiSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(945,0)">
+        
+        <image href="./img/Burger_BBQSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1005,135)">
+        
+        <image href="./img/Sucker_RockSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(945,270)">
+        
+        <image href="./img/SubSandwichSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1005,405)">
+        
+        <image href="./img/Soda_OrangeSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(945,540)">
+        
+        <image href="./img/Apple_GreenSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1005,675)">
+        
+        <image href="./img/GolemSticker_128x128.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(945,810)">
+        
+        <image href="./img/KiwiSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1080,0)">
+        
+        <image href="./img/ParsnipSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1140,135)">
+        
+        <image href="./img/BakedPotato_LoadedSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1080,270)">
+        
+        <image href="./img/SushiSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1140,405)">
+        
+        <image href="./img/SherbertSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1080,540)">
+        
+        <image href="./img/CoconutBSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1140,675)">
+        
+        <image href="./img/BananaSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1080,810)">
+        
+        <image href="./img/Banana_RedSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1215,0)">
+        
+        <image href="./img/Shishkabob_TropicalSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1275,135)">
+        
+        <image href="./img/Apple_GreenSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1215,270)">
+        
+        <image href="./img/CarrotSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1275,405)">
+        
+        <image href="./img/OrangeSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1215,540)">
+        
+        <image href="./img/Sucker_RockSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1275,675)">
+        
+        <image href="./img/BurgerSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1215,810)">
+        
+        <image href="./img/Taco_BlueSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1350,0)">
+        
+        <image href="./img/BurgerSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1410,135)">
+        
+        <image href="./img/Sucker_HeartSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1350,270)">
+        
+        <image href="./img/IcePopSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1410,405)">
+        
+        <image href="./img/BakedPotato_LoadedSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1350,540)">
+        
+        <image href="./img/EggRollSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1410,675)">
+        
+        <image href="./img/TacoSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1350,810)">
+        
+        <image href="./img/OliveSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1485,0)">
+        
+        <image href="./img/EggSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1545,135)">
+        
+        <image href="./img/CherrySticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1485,270)">
+        
+        <image href="./img/PickleSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1545,405)">
+        
+        <image href="./img/Sucker_RainbowSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1485,540)">
+        
+        <image href="./img/CoconutBSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1545,675)">
+        
+        <image href="./img/BakedPotato_LoadedSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+      <g transform="translate(1485,810)">
+        
+        <image href="./img/TacoSticker.png" x="-67.5px" y="-67.5px" width="135px"/>
+      </g>
+      
+    </svg>
+
